@@ -1,0 +1,6 @@
+[submodule "ui"]
+	path = ui
+	url = https://github.com/therrance/media-cell-ui
+[submodule "api"]
+	path = api
+	url = https://github.com/therrance/media_cell_api
